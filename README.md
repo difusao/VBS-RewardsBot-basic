@@ -5,7 +5,7 @@ Esse código desenvolvido em VBScript executa um número X de pesquisas no naveg
 - Necessário possuir o Microsoft Edge instalado.
 - Mínimo de 8 GB de memória RAM.
 
-  Código:
+  Código `bot.vbs`:
 ```
 Set WshShell = WScript.CreateObject("WScript.Shell")
 Set objRandom = CreateObject( "System.Random" )
